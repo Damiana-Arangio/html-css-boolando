@@ -29,6 +29,14 @@ a {
     padding: 80px 0;
 }
 
+.padding-bottom {
+    padding-bottom: 5px;
+}
+
+.padding-top {
+    padding-top: 5px;
+}
+
 /** CONTENITORE PAGINA */
 .container {
     max-width: 70%;
@@ -111,13 +119,14 @@ nav {
     max-width: 100%;
 }
 
-/* Immagini articoli in hover */
+/* Immagini articoli in hover */    
+                                        /* Nota. non conviene questa soluzione per questioni di ordine */
 .img-article1:hover {
-    content: url(../img/1.webp);                                /* Cambia l'immagine in status hover */
+    content: url(../img/1.webp);  /* Cambia l'immagine in status hover */
 }
 
 .img-article2:hover {
-    content: url(../img/2.webp);
+    content: url(../img/2.webp);       
 }
 
 .img-article3:hover {
