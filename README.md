@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/boolean-logo.png" alt="Boolean logo" width="35">
+  <img src="img/boolean-logo-readme.png" alt="Boolean logo" width="35">
 </p>
 
 <h1 align="center">Boolando</h1>
